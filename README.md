@@ -29,4 +29,6 @@ The project is aimed to detect 5 basic emotions by facial expression.
 - Change directory to flask app root folder: cd "../apps/Emotion Detection App"
 - Start the command: python camera_flask_app.py
 - Go to http://127.0.0.1:5000/ on your browser
-- 
+
+
+*KBTU, 2023* 🎉
