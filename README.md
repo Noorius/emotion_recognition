@@ -1,5 +1,10 @@
 # Emotion_recognition
 The project is aimed to detect 5 basic emotions by facial expression.
+1. Happy
+2. Sad
+3. Surprised
+4. Angry
+5. Neutral
 
 # Project structure
 - app - The Flask Application for Model Presentation
