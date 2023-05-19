@@ -22,3 +22,11 @@ The project is aimed to detect 5 basic emotions by facial expression.
 - Project Final - Implements Classical Machine Learning based on .csv with distances
 - video - Test CNN model
 - video-Tabular - Test GradBoost, MLP, ML models
+
+# How to start Flask?
+- Make sure you trained your models, put them in root directory of apps/Emotion Detection App
+- Activate you virtual env, or create a new with requirements.txt
+- Change directory to flask app root folder: cd "../apps/Emotion Detection App"
+- Start the command: python camera_flask_app.py
+- Go to http://127.0.0.1:5000/ on your browser
+- 
