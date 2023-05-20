@@ -35,6 +35,7 @@ The project is aimed to detect 5 basic emotions by facial expression.
 - Start the command: python camera_flask_app.py
 - Go to http://127.0.0.1:5000/ on your browser
 
-![image](https://github.com/Noorius/emotion_recognition/assets/78252057/cb6f2ffd-3c96-4941-b346-15568a1a6353)
+![image](https://github.com/Noorius/emotion_recognition/assets/78252057/9c811d30-2fdd-4b13-93f7-fa4d6d842e08)
+
 
 *KBTU, 2023* 🎉
